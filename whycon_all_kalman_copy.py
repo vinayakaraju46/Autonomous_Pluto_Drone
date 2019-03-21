@@ -1,10 +1,7 @@
 #!/usr/bin/env python
 
 '''
-* Team Id : eYRC#1082
 * Author List : Rahul,Vinayaka,Khoushikh,Sriram
-* Filename: 1082_pos_hold.py
-* Theme: Hungry Bird
 * Functions: disarm,arm,whycon_callback,altitude_set_pid,pitch_set_pid,roll_set_pid,pid
 * Global Variables:
 '''
